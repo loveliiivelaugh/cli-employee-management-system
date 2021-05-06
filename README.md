@@ -11,9 +11,10 @@ A command line application to manage employees in a MySQL database. It uses the 
 ![Screenshot](/assets/images/screenshot.png)
 ## Demo
 
+![Gif2](/assets/images/gif2.gif)
+
 ![Gif](/assets/images/gif.gif)
 
-![Gif2](/assets/images/gif2.gif)
 ## Installation
 
 `npm install`
@@ -22,7 +23,11 @@ A command line application to manage employees in a MySQL database. It uses the 
 
 * `git clone https://github.com/loveliiivelaugh/cli-employee-management-system.git`
 
-* open the directory and `node index.js.`
+* open the directory
+
+* `node index.js.`
+
+* `npm install`
 
 * Navigate the menu to interact with the database.
 
